@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(export_true_pythonpath)
+project(catkin_export_true_pythonpath)
 
 find_package(catkin_simple REQUIRED)
 

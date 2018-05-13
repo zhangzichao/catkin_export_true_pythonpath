@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>export_true_pythonpath</name>
+  <name>catkin_export_true_pythonpath</name>
   <version>0.0.0</version>
   <description>Export the python path of the workspace.</description>
 
