@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>export_true_pythonpath</name>
+  <version>0.0.0</version>
+  <description>Export the python path of the workspace.</description>
+
+  <maintainer email="zhangzichao17@gmail.com">Zichao Zhang</maintainer>
+
+  <license>BSD</license>
+
+  <depend>catkin_simple</depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+
+  </export>
+</package>
